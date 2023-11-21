@@ -3,6 +3,7 @@ module github.com/mengelbart/moqtransport
 go 1.21.1
 
 require (
+	github.com/Eyevinn/mp4ff v0.40.2
 	github.com/quic-go/quic-go v0.40.1-0.20231105142906-f5ce4e34f4d7
 	github.com/quic-go/webtransport-go v0.6.1-0.20231105134933-9074577ba782
 	github.com/stretchr/testify v1.8.4
